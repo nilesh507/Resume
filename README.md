@@ -1,4 +1,3 @@
 # Resume
-My first iteration for resume
 
-My second iteration
+- Added the most recent resume 
